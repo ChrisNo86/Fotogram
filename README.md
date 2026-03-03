@@ -64,7 +64,7 @@ This project was built to practice:
 
 Example:
 
-![Project Preview](./preview.jpg)
+![Project Preview](./preview.png)
 
 ---
 
