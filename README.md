@@ -2,6 +2,7 @@
 
 Responsive social media web application built with HTML, CSS and JavaScript.  
 Developed as part of the **Developer Akademie** Fullstack training program.
+Coded by Christian Noack
 
 ---
 
