@@ -64,7 +64,7 @@ This project was built to practice:
 
 Example:
 
-![Project Preview](./preview.png)
+![Project Preview](/preview.png)
 
 ---
 
@@ -74,3 +74,12 @@ Example:
 git clone https://github.com/ChrisNo86/fotogram.git
 cd fotogram
 open index.html
+
+🎓 Project Context
+This project was developed during the Developer Akademie training program
+to practice structured frontend development and responsive design principles.
+
+👨‍💻 Author
+Christian Noack
+https://christian-noack.com 
+Software Architecture · Engineering
